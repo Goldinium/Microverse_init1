@@ -32,7 +32,16 @@ input {
   background-color: #800080;
 }
 
-.textarea {
+textarea {
   width: 100%;
-  
+  height: 150px;
+  text-align: left;
+  border-radius: 5px;
 }
+
+fieldset {
+    border-radius: 5px;
+}
+form {
+     text-align: left;
+ }
